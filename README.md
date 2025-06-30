@@ -1,5 +1,5 @@
 # Workforce Insights Dashboard - Excel Project
-# Author: Syeda Sania Bokhari
+# By: Syeda Sania Bokhari
 
 # Project Description
 This Excel workbook analyzes a fictional company’s employee data to demonstrate a wide range of advanced Excel functions and data analysis techniques. The dataset includes employee details such as ID, name, age, average weekly working hours, years of experience, years with the organization, monthly salary, and occupation.
